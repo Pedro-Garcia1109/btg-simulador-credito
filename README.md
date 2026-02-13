@@ -16,7 +16,7 @@ Entity Framework Core (InMemory)
 
 Swagger (documentação da API)
 
-📊 Funcionalidades
+Funcionalidades
 
 A aplicação permite:
 
