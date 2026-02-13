@@ -1,0 +1,6 @@
+@BtgSimuladorCredito_HostAddress = http://localhost:5135
+
+GET {{BtgSimuladorCredito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
