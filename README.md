@@ -44,7 +44,7 @@ Valor total com juros
 
 Armazena as simulações realizadas em banco de dados em memória
 
-📐 Regra de Cálculo
+Regra de Cálculo
 
 A taxa anual é convertida para taxa do período utilizando a fórmula:
 
@@ -64,7 +64,7 @@ Foi utilizado Entity Framework Core com banco em memória (UseInMemoryDatabase) 
 
 As simulações ficam armazenadas durante o tempo de execução da aplicação.
 
-🚀 Como Executar o Projeto Pré-requisitos
+Como Executar o Projeto Pré-requisitos
 
 .NET 8 SDK instalado
 
